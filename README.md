@@ -6,6 +6,8 @@ Notes and examples on how to write papers and theses
 - http://genhis.philol.msu.ru/trebovaniya-k-diplomnoj-rabote/
 - Примеры дипломных работ в системе ИСТИНА https://istina.msu.ru
 - Поиск по диссертациям https://www.base-search.net/about/en/
+- Некторый примеры 
+   - 
 
 
 ## Writnig a scientific manuscript
