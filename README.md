@@ -1,7 +1,11 @@
 # sci_writing
 Notes and examples on how to write papers and theses
 
-
+## Writing a thesis in Russian
+- http://chemi-ksc.ru/images/doc/aspirantura/Standart_Oforml_Otchet.pdf
+- http://genhis.philol.msu.ru/trebovaniya-k-diplomnoj-rabote/
+- Примеры дипломных работ в системе ИСТИНА https://istina.msu.ru
+- Поиск по диссертациям https://www.base-search.net/about/en/
 
 
 ## Writnig a scientific manuscript
