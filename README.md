@@ -2,7 +2,8 @@
 Notes and examples on how to write papers and theses
 
 ## Writing a thesis in Russian
-- Официалная инструкция биофака [1](https://github.com/intbio/sci_writing/blob/master/Oformlenie_VKR_I_M_Kalinichenko.pdf) [2](https://github.com/intbio/sci_writing/blob/master/K_oformleniyu_diplomnykh_rabot%20(1).doc)
+- Официалная инструкция биофака по диплому [1](https://github.com/intbio/sci_writing/blob/master/Oformlenie_VKR_I_M_Kalinichenko.pdf) [2](https://github.com/intbio/sci_writing/blob/master/K_oformleniyu_diplomnykh_rabot%20(1).doc)
+- Официальная инструкция МГУ по диссертациям [1](https://istina.msu.ru/dissertation_councils/by_organization/214524/documents/)
 - http://chemi-ksc.ru/images/doc/aspirantura/Standart_Oforml_Otchet.pdf
 - http://genhis.philol.msu.ru/trebovaniya-k-diplomnoj-rabote/
 - Примеры дипломных работ в системе ИСТИНА https://istina.msu.ru
